@@ -6,8 +6,6 @@
  * Time: 3:41 PM
  */
 
-require_once('Circle.php');
-
 /**
  * Class Sphere
  * METHOD

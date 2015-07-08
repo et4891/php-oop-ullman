@@ -6,7 +6,6 @@
  * Time: 4:46 PM
  */
 
-
 /*
  * Rectangle Class
  * VARIABLES

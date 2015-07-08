@@ -6,9 +6,6 @@
  * Time: 4:13 PM
  */
 
-require_once('Rectangle.php');
-require_once('Circle.php');
-
 /**
  * Class Cylinder
  * VARIABLES

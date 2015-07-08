@@ -1,5 +1,4 @@
 <?php
-//Reference both Rectangle and Circle class
 class Cylinder {
     // Create variables needed to calculate a Cylinder's area
     //*hint* the variables are used to reference objects

@@ -30,5 +30,5 @@ echo '-------------------------------------------';
 echo '<p>Area of the Sphere: ' . $s->getArea() . '</p>';
 echo '-------------------------------------------';
 echo '<p>Total Circle related created: ' . Circle::getCounter() . '</p>';
-unset($c,$s,$circle,$o);
+unset($c,$s,$circle);
 echo '<p>Circles left: ' . Circle::getCounter() .  '</p>';

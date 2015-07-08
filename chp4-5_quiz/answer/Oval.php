@@ -6,8 +6,6 @@
  * Time: 4:38 PM
  */
 
-require_once('Circle.php');
-
 /**
  * Class Oval
  * METHOD
